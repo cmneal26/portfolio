@@ -27,5 +27,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # Build output to publish to the `gh-pages` branch:
           publish_dir: ./build
-          user_name: ingrey1
-          user_email: ingrey1@gmail.com
+          user_name: cmneal26
+          user_email: claire.m.neal@gmail.com
