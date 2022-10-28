@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://cmneal26.github.io/portfolio/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 28 Oct 2022 03:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 03:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Dinosaurs]]></title>
             <link>https://cmneal26.github.io/portfolio/blog/dinosaurs</link>
             <guid>dinosaurs</guid>
-            <pubDate>Fri, 28 Oct 2022 03:34:23 GMT</pubDate>
+            <pubDate>Fri, 28 Oct 2022 03:44:25 GMT</pubDate>
             <content:encoded><![CDATA[<h2>a dinosaur</h2>]]></content:encoded>
         </item>
     </channel>
