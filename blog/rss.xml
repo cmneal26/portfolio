@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://cmneal26.github.io/blog</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Fri, 28 Oct 2022 03:12:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Dinosaurs]]></title>
+            <link>https://cmneal26.github.io/blog/dinosaurs</link>
+            <guid>dinosaurs</guid>
+            <pubDate>Fri, 28 Oct 2022 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>a dinosaur</h2>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

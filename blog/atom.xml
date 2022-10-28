@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cmneal26.github.io/blog</id>
+    <title>My Site Blog</title>
+    <updated>2022-10-28T03:12:06.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cmneal26.github.io/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://cmneal26.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dinosaurs]]></title>
+        <id>dinosaurs</id>
+        <link href="https://cmneal26.github.io/blog/dinosaurs"/>
+        <updated>2022-10-28T03:12:06.000Z</updated>
+        <content type="html"><![CDATA[<h2>a dinosaur</h2>]]></content>
+        <author>
+            <name>Claire Neal</name>
+            <uri>https://github.com/cmneal26</uri>
+        </author>
+    </entry>
+</feed>
