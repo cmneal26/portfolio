@@ -57,12 +57,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'My Portfolio',
+       
         items: [
+          {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Docs',
+        },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/dinosaurs', label: 'dinosaurs', position: 'left'},
           {
